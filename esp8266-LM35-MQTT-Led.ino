@@ -12,7 +12,9 @@
 
   Created 19 March 2019
   By Mujahed Altahle
-
+  
+  code on github
+  https://github.com/wasslz/ESP9266-IO-Adafruit-LM35
 */
 
 #include <ESP8266WiFi.h>
