@@ -22,15 +22,15 @@
 #include "Adafruit_MQTT_Client.h"
 
 /************************* WiFi Access Point *********************************/
-#define WLAN_SSID       "IOT-WiFi"
-#define WLAN_PASS       "IOT@9922"
+#define WLAN_SSID       "SSID Nname"
+#define WLAN_PASS       "SSID Key"
 
 /************************* Adafruit.io Setup *********************************/
 
 #define AIO_SERVER      "io.adafruit.com"
 #define AIO_SERVERPORT  1883                   // use 8883 for SSL
-#define AIO_USERNAME  "mtahle"
-#define AIO_KEY       "5f9cb21169754ddfb2b623d7a45b1c5e"
+#define AIO_USERNAME  "username"
+#define AIO_KEY       "aio-key"
 
 /************ Global State (you don't need to change this!) ******************/
 
